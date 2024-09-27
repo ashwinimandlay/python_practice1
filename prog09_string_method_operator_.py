@@ -1,6 +1,6 @@
 course = 'python for beginners'
 print(len(course))
-# for lenght of string
+# for length of string
 
 print(course.upper())
 # the dot operator is called method operator
@@ -13,7 +13,7 @@ print(course.find('n'))
 print(course.find('begin'))
 # print starting address of word begin
 
-print(course.replace('beginners', 'absolute begginers'))
+print(course.replace('beginners', 'absolute beginners'))
 
 print('python' in course)
 # to check if couse has word python (gives boolean answer)
